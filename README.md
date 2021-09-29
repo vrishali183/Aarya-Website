@@ -1,1 +1,1 @@
-# Aarya-Website
+# School-website
